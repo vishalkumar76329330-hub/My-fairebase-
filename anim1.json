@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "184932391554",
+    "firebase_url": "https://krish-eklavya-default-rtdb.firebaseio.com",
+    "project_id": "krish-eklavya",
+    "storage_bucket": "krish-eklavya.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184932391554:android:2ba5ddf5657a3d664bb29b",
+        "android_client_info": {
+          "package_name": "Com.qutex.apk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkEMCzQKfl-0CS20bSuQA07dJ4nkFe5XU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
